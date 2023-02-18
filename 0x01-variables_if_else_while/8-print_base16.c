@@ -19,5 +19,6 @@ int main(void)
 		putchar(ch);
 	}
 	putchar('\n');
-	retu
+	return (0);
+}
 
